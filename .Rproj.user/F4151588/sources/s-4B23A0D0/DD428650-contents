@@ -1,0 +1,11 @@
+#' Add learning function
+#' 
+#'     This is a temporary package that will be deleted.
+#'     
+#'     
+#' @docType Package
+#' 
+#' @author Qbarber
+#' 
+#' @name add
+NULL
